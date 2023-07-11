@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "local"]
+	url = /Users/user/Documents/Git-GitHub/alura-aula2/servidor
+	fetch = +refs/heads/*:refs/remotes/local/*
